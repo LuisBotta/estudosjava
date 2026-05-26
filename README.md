@@ -7,3 +7,4 @@ Segundo commit foi referente a um desafio proposto no curso, onde foi necessári
 Terceiro commit foi referente a exercícios de controle de fluxo simples como IF, ELSE-IF, ELSE e SWITCH case, foram feitos com base em atividades simples como Verificar se um aluno foi aprovado na escola, se existe dinheiro o suficiente para ser sacado no banco e planos de celular que possuem beneficios progressivos que contemplam os do plano inferior.
 teste
 teste2
+teste3
